@@ -25,3 +25,6 @@ footer{
   font-weight: normal;
   color: hsl(220, 15%, 55%);
  }
+.content__info{text-align:center}
+.content__title{color:#1f3251;margin-bottom:1rem}
+.content__desc{width:90%;margin:0 auto;color:#7b879d;font-size:1em;margin-bottom:1.5rem}
