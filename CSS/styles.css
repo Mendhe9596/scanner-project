@@ -1,17 +1,13 @@
 body{
     text-align:center;
     margin: 100px 30px;
+    background-color: hsl(212, 45%, 89%);
     font-family: 'Merriweather', serif;
  }
 img{
     width: 200px;
     height: 200px;
     float: top;
- }
-main{
-    height: 700px;
-    background-color: hsl(212, 45%, 89%);
-    margin:100px 50px;  
  }
  .content{
     margin-top: 150px;
