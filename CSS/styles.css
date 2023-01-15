@@ -4,11 +4,10 @@ body{
     font-family: 'Merriweather', serif;
  }
 img{
-   max-width:320px
+   max-width:320px;
     float: top;
  }
 main{
-    height: 700px;
     background-color: hsl(212, 45%, 89%);
     margin:100px 50px;  
  }
