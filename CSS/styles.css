@@ -11,6 +11,9 @@ main{
     background-color: hsl(212, 45%, 89%);
     margin:100px 50px;  
  }
+footer{
+    margin-top: 30px;
+}
  .content{
     margin-top: 150px;
     background-color: white;
