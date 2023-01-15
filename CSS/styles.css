@@ -4,8 +4,7 @@ body{
     font-family: 'Merriweather', serif;
  }
 img{
-   max-width:320px;
-    float: top;
+  object-fit: cover;
  }
 main{
     background-color: hsl(212, 45%, 89%);
